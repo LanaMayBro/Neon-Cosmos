@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.log
+*.scr
+*.exe
+neon_shots/
+.neon_cosmos*
