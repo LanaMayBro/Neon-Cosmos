@@ -9,6 +9,8 @@ A point of light flashes in the void, particles burst out, a gas nebula grows an
 
 *Screen recording of the windowed test mode; it looks sharper on a real screen.*
 
+https://github.com/user-attachments/assets/dcc57b60-e2db-42f0-b865-782061ed3ea9
+
 ## Features
 
 - **Five different nebulae** (lagoon, Orion-like, bubble, witch-head, flame), each with its own composition, colours and signature stars. Everything is procedural, generated in shaders, with no image files.
